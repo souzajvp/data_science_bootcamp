@@ -1,3 +1,4 @@
+![img](https://raw.githubusercontent.com/souzajvp/data_science_bootcamp/main/modulo_02/Prancheta%204.png)
 # Sobre o que é o meu projeto?
 
 Meu objetivo é avaliar como anda a cobertura vacinal no Brasil, com foco especial na Febre Amarela (FA).
