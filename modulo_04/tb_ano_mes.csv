@@ -1,0 +1,40 @@
+TUBERCULOSE - Casos confirmados notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por Ano Diagnóstico e Mês Diagnóstico
+Período:2001-2019
+"Ano Diagnóstico";"Jan";"Fev";"Mar";"Abr";"Mai";"Jun";"Jul";"Ago";"Set";"Out";"Nov";"Dez";"Total"
+"2001";8088;6542;8095;7305;7656;6805;6987;8065;6697;7524;6874;6627;87265
+"2002";8013;7346;7961;8771;7784;6713;7746;8330;7654;8200;7532;6809;92859
+"2003";8115;7985;7474;7975;8024;7082;7949;7585;8136;8521;7624;7303;93773
+"2004";7574;6743;8574;8089;7763;7314;7825;8232;7901;8016;7753;7196;92980
+"2005";7432;6748;8441;7958;8019;7781;7282;8391;7690;7186;7587;7541;92056
+"2006";7385;6687;8132;6804;7593;6984;7101;7722;6793;7005;6674;6151;85031
+"2007";7342;6204;8115;7266;7368;6591;7184;7564;6712;7465;6695;6094;84600
+"2008";7355;6646;7278;7612;6895;6929;7688;7797;7631;7564;6799;6574;86768
+"2009";7113;6452;8146;7514;7168;6702;7443;7368;7388;7285;7016;6723;86318
+"2010";6912;6403;8308;7049;6973;6621;7128;7389;7165;7210;7047;7176;85381
+"2011";7112;7269;7484;7558;7688;6940;7079;7992;7386;6994;7375;6936;87813
+"2012";7375;6774;7882;6927;7586;6787;7255;8014;6734;7606;6941;6302;86183
+"2013";7502;6209;7102;7696;6996;6953;7379;7931;7377;7789;6939;6335;86208
+"2014";7670;7040;6754;7260;7177;6322;7516;7124;7505;7470;6905;6470;85213
+"2015";7111;6160;7833;6880;6893;6916;7531;7463;7189;7345;7287;6844;85452
+"2016";7116;6800;8067;7360;7315;7527;6991;7702;7030;6588;7039;6672;86207
+"2017";7481;6803;8680;6780;8091;7394;7225;8110;7447;7809;7451;7020;90291
+"2018";7881;6821;7901;8121;7892;7720;8109;8934;7663;8701;7711;6900;94354
+"2019";8392;7754;7648;8274;8383;7363;8382;8239;8143;8592;7615;7220;96005
+"Total";142969;129386;149875;143199;143264;133444;141800;149952;140241;144870;136864;128893;1684757
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos os registros encerrados com mudança de diagnóstico.
+ Períodos disponíveis - Correspondem aos anos de notificação dos casos.
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse, e na coluna a variável “Ano do diagnóstico”; em “Períodos Disponíveis” assinale o ano inicial da série e todos os posteriores até o ano atual (para
+ Para cálculo da incidência selecione o local de residência e as seguintes categorias da variável “Tipo de entrada”: caso novo, não sabe e pós óbito.
+ A variável “Beneficiário de programa de transferência de renda do governo” não contém dados do Estado de São Paulo (SP). Quanto a variável “Terapia antirretroviral durante o tratamento da TB”, os dados do estado de SP foram inseridos a partir do seg
+ Em 2014, foram incluídas as seguintes variáveis no Sinan-Net (Tuberculose): populações especiais (população privada de liberdade, população em situação de rua, profissional de saúde e imigrante), doenças e agravos associados (uso de drogas ilícitas
+ A variável “institucionalizado” foi descontinuada em 2015. Portanto, para análise referente à população privada de liberdade após esse período, utilizar a variável “PPL” (população privada de liberdade).
+ Para informações detalhadas sobre o Sinan-Tuberculose e sobre as análises de indicadores epidemiológicos e operacionais da tuberculose, acessar o link: http://portalsinan.saude.gov.br/tuberculose
+ Em caso de dúvidas, encaminhar e-mail para: tuberculose@saude.gov.br
+ Dados de 2001 a 2015 estão finalizados.
+ Dados de 2016 a 2019 atualizados em11/2020, sujeitos à revisão.
+ Dados disponibilizados no TABNET em12/2020, após homologação da Coordenação Geral de Vigilância das Doenças de Transmissão Respiratória de Condições Crônicas/DCCI/SVS.
+ 
