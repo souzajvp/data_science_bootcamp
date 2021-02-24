@@ -22,7 +22,6 @@ Não se pode utilizar os dados quando o paciente deu entrada na UTI -> `ICU = 1`
 Os dados foram **anonimizados e escalados** para manterem-se entre 0 e 1 de acordo com valores máximos e mínimos;
 
 ### Entendendo as variáveis disponíveis:
-***
 * Informações demgráficas (03);
 * Agrupamento de doenças (09);
 * Resultados de exames de sangue (36);
@@ -33,7 +32,6 @@ Diversas variáveis foram expandidas para versões `média`, `mediana`, `máximo
 * diff relativo = `diff` / `mediana`
 
 ### Entendendo a estrutura dos dados:
-***
 Neste desafio, temos dados de pacientes positivos para COVID-19 internados no Hospital Sírio Libânes de São Paulo-SP e Brasília-DF. De forma geral, temos até 5 entradas que representam dados de um mesmo paciente. Essas entradas são referentes à diferentes janelas de tempo (`0-2, 2-4, 4-6, 6-12, >12`) em que os pacientes foram acompanhados. Para cada uma das janelas, foram dosados diversos marcadores biológicos e sinais vitais. <br>
 Resumidamente, a estrutura do banco é a seguinte:
 
