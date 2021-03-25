@@ -1,9 +1,12 @@
 # data_science_bootcamp
-## Um pouco sobre mim:
+Repository to hold my progress on the Bootcamp Data Science Applied in Health promoted by ALURA.
 
-Meu nome é João Vítor Perez de Souza, sou Biomédico e atualmente aluno de doutorado na Universidade Estadual de Maringá-Paraná. A minha tese é focada principalmente no desenvolvimento de novos fármacos para tratar a Tuberculose, doença respiratória que era a líder em mortes anuais por um agente infeccioso no mundo (antes da COVID-19).<br>
-<font color='Blue'> >> </font>Sempre tive gosto pela área de bioinformática, e mais recentemente comecei a aprender sobre programação, ciência de dados e etc. O Bootcamp tem sido uma experiência incrível para aprender com gente que tem a vivência na área. Adicionalmente, esse primeiro projeto final já me possibilitou iniciar parceriais com pesquisadores que são da área. <br>
+## Something about me:
+
+My name is João Vítor Perez de Souza, I am a Biomedic and currently a PhD student at the State University of Maringá-Paraná, Brazil. My thesis is mainly focused on the development of new drugs to treat Tuberculosis, a respiratory disease that was the leader in annual deaths by an infectious agent in the world before COVID-19.<br>
+<font color='Blue'> >> </font>I have always had a taste for bioinformatics, and more recently I started to learn about programming, data science and python. Bootcamp has been an incredible experience to learn from people who have experience in the area. Additionally, the knowledge and cofindence that I obtained throughout the Bootcamp has already enabled me to start partnerships with researchers who are in the field. <br>
 ***
-### <font color='Blue'> >> </font> Onde encontrar meu trabalho?
-1. [ResearchGate](https://www.researchgate.net/profile/Joao_Souza34);
-2. [Github em construção](https://github.com/souzajvp).
+### <font color='Blue'> >> </font> Where to find my work?
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/souzajvp)](https://github.com/souzajvp)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-perez-de-souza/)](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-perez-de-souza/)
+[![Twitter](https://img.shields.io/twitter/url/https://twitter.com/souzajvp)]https://twitter.com/souzajvp)
