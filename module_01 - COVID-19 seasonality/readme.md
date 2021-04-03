@@ -25,3 +25,31 @@ My objective was to evaluate the distribution of COVID-19 cases and compare them
 **Observation**: the complete database contains a large number of entries, considering different levels of records. To use in my project, I processed the database previously, extracting more general data, at the level of: country, cases, both sexes, etc. Complete information on how I did this filtering can be found [here (PT-BR)](https://github.com/souzajvp/data_science_bootcamp/blob/main/modulo_01/dataset_gripe.ipynb). <BR>
 **Observation2**: The Brasil.io initiative's database contained incomplete information for the latest available dates (at the time I downloaded it), so some graphs will bring a sharp drop in the indexes on those dates.
 > [With incomplete data for 5 days, Brazil registers 264 deaths by Covid-19 (PT-BR)](https://oglobo.globo.com/sociedade/com-dados-incompletos-ha-5-dias-brasil-registra-264-mortes-por-covid-19-24737450) (published on of November 9).
+
+
+## Conclusions (November/2020)
+
+The covid-19 pandemic presented several challenges for society, causing irreparable losses. Still, many downplay and discredit science.
+
+My work aimed to assess the seasonality of deaths by SARS, compared to deaths by covid-19. Although we only have 2020 records, SarS-CoV2 also appears to follow a form of seasonal transmission. This has also been reported by other coronaviruses that cause milder symptoms.
+
+Thus, we have to prepare for the future and only the collaboration of EVERYONE in society can minimize unnecessary losses.
+
+
+## Future perspectives and ways to improve my work (November/2020)
+
+### How about the states?
+
+Could it be that the states with the highest number of deaths due to SARS-non-covid are also the ones most affected by Covid-19 in 2020?
+
+###How similar are the epidemiological curves of epidemic and non-epidemic covid and SARS?
+
+Statistically analyze the acceleration of these curves and the coefficient of variation.
+
+###Is it possible to model future SRAG behaviors based on the available data?
+
+I still don't know how to do it, but I would like to train this type of inference. This type of analysis has several limitations, especially considering the context of the pandemic we are in, but it will serve as a great learning opportunity.
+
+**I was able to do this kind of analysis using Time Series analyisis methods**
+
+### How does the people's movement relate to the covid-19 cases? 
