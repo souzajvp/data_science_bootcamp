@@ -42,11 +42,11 @@ Thus, we have to prepare for the future and only the collaboration of EVERYONE i
 
 Could it be that the states with the highest number of deaths due to SARS-non-covid are also the ones most affected by Covid-19 in 2020?
 
-###How similar are the epidemiological curves of epidemic and non-epidemic covid and SARS?
+### How similar are the epidemiological curves of epidemic and non-epidemic covid and SARS?
 
 Statistically analyze the acceleration of these curves and the coefficient of variation.
 
-###Is it possible to model future SRAG behaviors based on the available data?
+### Is it possible to model future SRAG behaviors based on the available data?
 
 I still don't know how to do it, but I would like to train this type of inference. This type of analysis has several limitations, especially considering the context of the pandemic we are in, but it will serve as a great learning opportunity.
 
